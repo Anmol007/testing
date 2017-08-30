@@ -1,0 +1,2 @@
+# testing
+find contraction points
