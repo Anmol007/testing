@@ -1,2 +1,3 @@
 # testing
-find contraction points
+
+Copy Paste in BobSeg folder
